@@ -1,0 +1,118 @@
+Course Name: CSS601
+Instructor: ID: 6 Instructor Name: Bhavik patel
+Students: 
+No Students
+Course Name: CSS600
+Instructor: No Instuctor
+Students: 
+
+ID: 6 Student Name: Bhavik patel
+
+Course Name: CSS143
+Instructor: ID: 1 Instructor Name: jacob john
+Students: 
+
+ID: 7 Student Name: FirstName LastName
+ID: 8 Student Name: FirstName LastName
+ID: 9 Student Name: FirstName LastName
+ID: 10 Student Name: FirstName LastName
+ID: 11 Student Name: FirstName LastName
+ID: 12 Student Name: FirstName LastName
+ID: 13 Student Name: FirstName LastName
+ID: 14 Student Name: FirstName LastName
+ID: 15 Student Name: FirstName LastName
+ID: 16 Student Name: FirstName LastName
+ID: 17 Student Name: FirstName LastName
+ID: 18 Student Name: FirstName LastName
+ID: 19 Student Name: FirstName LastName
+ID: 20 Student Name: FirstName LastName
+ID: 21 Student Name: FirstName LastName
+ID: 22 Student Name: FirstName LastName
+ID: 23 Student Name: FirstName LastName
+ID: 24 Student Name: FirstName LastName
+ID: 25 Student Name: FirstName LastName
+ID: 26 Student Name: FirstName LastName
+ID: 27 Student Name: FirstName LastName
+ID: 28 Student Name: FirstName LastName
+ID: 29 Student Name: FirstName LastName
+ID: 30 Student Name: FirstName LastName
+ID: 31 Student Name: FirstName LastName
+ID: 32 Student Name: FirstName LastName
+ID: 33 Student Name: FirstName LastName
+ID: 34 Student Name: FirstName LastName
+ID: 35 Student Name: FirstName LastName
+ID: 36 Student Name: FirstName LastName
+ID: 37 Student Name: FirstName LastName
+ID: 38 Student Name: FirstName LastName
+ID: 39 Student Name: FirstName LastName
+ID: 40 Student Name: FirstName LastName
+ID: 41 Student Name: FirstName LastName
+ID: 42 Student Name: FirstName LastName
+ID: 43 Student Name: FirstName LastName
+ID: 44 Student Name: FirstName LastName
+ID: 45 Student Name: FirstName LastName
+ID: 46 Student Name: FirstName LastName
+ID: 47 Student Name: FirstName LastName
+
+Course Name: CSS142
+Instructor: ID: 1 Instructor Name: jacob john
+Students: 
+
+ID: 7 Student Name: FirstName LastName
+ID: 8 Student Name: FirstName LastName
+ID: 9 Student Name: FirstName LastName
+ID: 10 Student Name: FirstName LastName
+ID: 11 Student Name: FirstName LastName
+ID: 12 Student Name: FirstName LastName
+ID: 13 Student Name: FirstName LastName
+ID: 14 Student Name: FirstName LastName
+ID: 15 Student Name: FirstName LastName
+ID: 16 Student Name: FirstName LastName
+ID: 17 Student Name: FirstName LastName
+ID: 18 Student Name: FirstName LastName
+ID: 19 Student Name: FirstName LastName
+ID: 20 Student Name: FirstName LastName
+ID: 21 Student Name: FirstName LastName
+ID: 22 Student Name: FirstName LastName
+ID: 23 Student Name: FirstName LastName
+ID: 24 Student Name: FirstName LastName
+ID: 25 Student Name: FirstName LastName
+ID: 26 Student Name: FirstName LastName
+ID: 27 Student Name: FirstName LastName
+ID: 28 Student Name: FirstName LastName
+ID: 29 Student Name: FirstName LastName
+ID: 30 Student Name: FirstName LastName
+ID: 31 Student Name: FirstName LastName
+ID: 32 Student Name: FirstName LastName
+ID: 33 Student Name: FirstName LastName
+ID: 34 Student Name: FirstName LastName
+ID: 35 Student Name: FirstName LastName
+ID: 36 Student Name: FirstName LastName
+ID: 37 Student Name: FirstName LastName
+ID: 38 Student Name: FirstName LastName
+ID: 39 Student Name: FirstName LastName
+ID: 40 Student Name: FirstName LastName
+ID: 41 Student Name: FirstName LastName
+ID: 42 Student Name: FirstName LastName
+ID: 43 Student Name: FirstName LastName
+ID: 44 Student Name: FirstName LastName
+ID: 45 Student Name: FirstName LastName
+ID: 46 Student Name: FirstName LastName
+ID: 47 Student Name: FirstName LastName
+
+Course Name: CSS350
+Instructor: ID: 2 Instructor Name: rohan patel
+Students: 
+
+ID: 4 Student Name: Smart Man
+
+Course Name: CSS343
+Instructor: ID: 3 Instructor Name: Oliver Jim
+Students: 
+
+ID: 4 Student Name: Smart Man
+
+Course Name: CSS502
+Instructor: No Instuctor
+Students: 
+No Students

@@ -1,0 +1,216 @@
+Succesful:: Created: University of Washigton
+Unsuccesful:: Remove Course Code: 1
+Succesful:: Added Course: CSS142 Code: 1
+Succesful:: Added Course: CSS143 Code: 2
+Succesful:: Added Course: CSS301 Code: 3
+Succesful:: Added Course: CSS350 Code: 4
+Succesful:: Added Course: CSS343 Code: 5
+Succesful:: Added Course: CSS502 Code: 6
+Succesful:: Added Course: CSS600 Code: 7
+Succesful:: Added Course: CSS601 Code: 8
+Succesful:: Added Person: jacob john Type: FACULTY Code: 1
+Succesful:: Added Person: rohan patel Type: FACULTY Code: 2
+Succesful:: Added Person: Oliver Jim Type: FACULTY Code: 3
+Succesful:: Added Person: Smart Man Type: UNDERGRADUATE Code: 4
+Succesful:: Added Person: Bob patel Type: GRADUATE Code: 5
+Succesful:: Added Person: Bhavik patel Type: GRADUATE Code: 6
+Succesful:: Added Instructor: jacob john Person Code: 1 -> Course: CSS142 Course Code: 1
+Succesful:: Added Instructor: jacob john Person Code: 1 -> Course: CSS143 Course Code: 2
+Succesful:: Added Instructor: jacob john Person Code: 1 -> Course: CSS301 Course Code: 3
+UnSuccesful:: Added Instructor: jacob john Person Code: 1 -> Course: CSS350 Course Code: 4
+Succesful:: Printed A Instructor's Courses: jacob john Person Code: 1
+Succesful:: Added Instructor: rohan patel Person Code: 2 -> Course: CSS350 Course Code: 4
+Succesful:: Added Instructor: Oliver Jim Person Code: 3 -> Course: CSS343 Course Code: 5
+Unsuccesful:: Added Student: Bob patel Person Code: 5 -> Course: CSS142 Course Code: 1
+Succesful:: Printed A Courses's Students: CSS142  Course Code: 1
+Succesful:: Added Student: Bob patel Person Code: 5 -> Course: CSS502 Course Code: 6
+Succesful:: Added Student: Bhavik patel Person Code: 6 -> Course: CSS600 Course Code: 7
+UnSuccesful:: Added Instructor: Bob patel Person Code: 5 -> Course: CSS502 Course Code: 6
+Succesful:: Printed A Instructor's Courses: Bob patel Person Code: 5
+Succesful:: Added Instructor: Bhavik patel Person Code: 6 -> Course: CSS502 Course Code: 6
+UnSuccesful:: Added Instructor: Bhavik patel Person Code: 6 -> Course: CSS601 Course Code: 8
+Succesful:: Printed A Instructor's Courses: Bhavik patel Person Code: 6
+Succesful:: Added Instructor: Bhavik patel Person Code: 6 -> Course: CSS502 Course Code: 6
+Succesful:: Added Instructor: Bhavik patel Person Code: 6 -> Course: CSS601 Course Code: 8
+Succesful:: Printed A Instructor's Courses: Bhavik patel Person Code: 6
+Succesful:: Printed A Instructor's Teaching History: Bhavik patel Person Code: 6
+Succesful:: Added Student: Smart Man Person Code: 4 -> Course: CSS301 Course Code: 3
+Succesful:: Added Student: Smart Man Person Code: 4 -> Course: CSS350 Course Code: 4
+Succesful:: Added Student: Smart Man Person Code: 4 -> Course: CSS343 Course Code: 5
+Succesful:: Added Student: Smart Man Person Code: 4 -> Course: CSS142 Course Code: 1
+Succesful:: Printed A Student's Courses: Smart Man Person Code: 4
+Succesful:: Removed Student: Smart Man Person Code: 4 -> Course: CSS142 Course Code: 1
+Succesful:: Printed A Student's Courses: Smart Man Person Code: 4
+Succesful:: Printed A Student's Course History: Smart Man Person Code: 4
+Unsuccesful:: Added Student: Smart Man Person Code: 4 -> Course: CSS601 Course Code: 8
+Succesful:: Printed A Student's Courses: Smart Man Person Code: 4
+Unsuccesful:: Added Student: Smart Man Person Code: 4 -> Course: CSS142 Course Code: 1
+Succesful:: Printed A Student's Courses: Smart Man Person Code: 4
+Succesful:: Checked For Invalid Students At: University of Washigton
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 7
+Succesful:: Added Student: FirstName LastName Person Code: 7 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 7 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 8
+Succesful:: Added Student: FirstName LastName Person Code: 8 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 8 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 9
+Succesful:: Added Student: FirstName LastName Person Code: 9 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 9 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 10
+Succesful:: Added Student: FirstName LastName Person Code: 10 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 10 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 11
+Succesful:: Added Student: FirstName LastName Person Code: 11 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 11 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 12
+Succesful:: Added Student: FirstName LastName Person Code: 12 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 12 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 13
+Succesful:: Added Student: FirstName LastName Person Code: 13 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 13 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 14
+Succesful:: Added Student: FirstName LastName Person Code: 14 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 14 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 15
+Succesful:: Added Student: FirstName LastName Person Code: 15 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 15 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 16
+Succesful:: Added Student: FirstName LastName Person Code: 16 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 16 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 17
+Succesful:: Added Student: FirstName LastName Person Code: 17 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 17 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 18
+Succesful:: Added Student: FirstName LastName Person Code: 18 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 18 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 19
+Succesful:: Added Student: FirstName LastName Person Code: 19 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 19 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 20
+Succesful:: Added Student: FirstName LastName Person Code: 20 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 20 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 21
+Succesful:: Added Student: FirstName LastName Person Code: 21 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 21 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 22
+Succesful:: Added Student: FirstName LastName Person Code: 22 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 22 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 23
+Succesful:: Added Student: FirstName LastName Person Code: 23 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 23 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 24
+Succesful:: Added Student: FirstName LastName Person Code: 24 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 24 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 25
+Succesful:: Added Student: FirstName LastName Person Code: 25 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 25 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 26
+Succesful:: Added Student: FirstName LastName Person Code: 26 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 26 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 27
+Succesful:: Added Student: FirstName LastName Person Code: 27 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 27 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 28
+Succesful:: Added Student: FirstName LastName Person Code: 28 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 28 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 29
+Succesful:: Added Student: FirstName LastName Person Code: 29 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 29 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 30
+Succesful:: Added Student: FirstName LastName Person Code: 30 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 30 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 31
+Succesful:: Added Student: FirstName LastName Person Code: 31 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 31 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 32
+Succesful:: Added Student: FirstName LastName Person Code: 32 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 32 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 33
+Succesful:: Added Student: FirstName LastName Person Code: 33 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 33 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 34
+Succesful:: Added Student: FirstName LastName Person Code: 34 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 34 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 35
+Succesful:: Added Student: FirstName LastName Person Code: 35 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 35 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 36
+Succesful:: Added Student: FirstName LastName Person Code: 36 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 36 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 37
+Succesful:: Added Student: FirstName LastName Person Code: 37 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 37 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 38
+Succesful:: Added Student: FirstName LastName Person Code: 38 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 38 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 39
+Succesful:: Added Student: FirstName LastName Person Code: 39 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 39 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 40
+Succesful:: Added Student: FirstName LastName Person Code: 40 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 40 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 41
+Succesful:: Added Student: FirstName LastName Person Code: 41 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 41 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 42
+Succesful:: Added Student: FirstName LastName Person Code: 42 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 42 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 43
+Succesful:: Added Student: FirstName LastName Person Code: 43 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 43 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 44
+Succesful:: Added Student: FirstName LastName Person Code: 44 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 44 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 45
+Succesful:: Added Student: FirstName LastName Person Code: 45 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 45 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 46
+Succesful:: Added Student: FirstName LastName Person Code: 46 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 46 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 47
+Succesful:: Added Student: FirstName LastName Person Code: 47 -> Course: CSS142 Course Code: 1
+Succesful:: Added Student: FirstName LastName Person Code: 47 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 48
+Unsuccesful:: Added Student: FirstName LastName Person Code: 48 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 48 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 49
+Unsuccesful:: Added Student: FirstName LastName Person Code: 49 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 49 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 50
+Unsuccesful:: Added Student: FirstName LastName Person Code: 50 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 50 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 51
+Unsuccesful:: Added Student: FirstName LastName Person Code: 51 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 51 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 52
+Unsuccesful:: Added Student: FirstName LastName Person Code: 52 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 52 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 53
+Unsuccesful:: Added Student: FirstName LastName Person Code: 53 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 53 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 54
+Unsuccesful:: Added Student: FirstName LastName Person Code: 54 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 54 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 55
+Unsuccesful:: Added Student: FirstName LastName Person Code: 55 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 55 -> Course: CSS143 Course Code: 2
+Succesful:: Added Person: FirstName LastName Type: UNDERGRADUATE Code: 56
+Unsuccesful:: Added Student: FirstName LastName Person Code: 56 -> Course: CSS142 Course Code: 1
+Unsuccesful:: Added Student: FirstName LastName Person Code: 56 -> Course: CSS143 Course Code: 2
+Succesful:: Checked For Invalid Students At: University of Washigton
+Succesful:: Printed A Courses's Students: CSS142  Course Code: 1
+Succesful:: Printed A Courses's Students: CSS143  Course Code: 2
+Succesful:: Added Person: Bad Student Type: GRADUATE Code: 57
+Succesful:: Added Person: Lazy Student Type: GRADUATE Code: 58
+Succesful:: Checked For Invalid Students At: University of Washigton
+Succesful:: Printed A Instructor's Courses: jacob john Person Code: 1
+Succesful:: Removed Course: CSS301 Code: 3
+Succesful:: Printed A Instructor's Courses: jacob john Person Code: 1
+Succesful:: Printed A Courses's Students: CSS502  Course Code: 6
+Succesful:: Removed GRADUATE: Bob patel Code: 5
+Succesful:: Printed A Courses's Students: CSS502  Course Code: 6
+Succesful:: Printed All Current Course At University of Washigton To The Screen
+Succesful:: Printed All Current Course At University of Washigton To UniversityCourses.txt
+Succesful:: Deleted: University of Washigton
+Succesful:: Deleted: University of Washigton
+Succesful:: Deleted: University of Washigton
